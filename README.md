@@ -5,6 +5,7 @@ This is an attempt to group related log records using [Jaccard similarity coeffi
 Inspiration was taken from:
 * [Weighted MinHash on GPU helps to find duplicate GitHub repositories](https://blog.sourced.tech/post/minhashcuda/)
 * [minhashcuda](https://github.com/src-d/minhashcuda)
+* [Finding Bieber: On removing duplicates from a set of documents](http://stevehanov.ca/blog/index.php?id=144)
 * [Locality Sensitive Hashing for semantic similarity](https://github.com/italo-batista/lsh-semantic-similarity/) repository
 
 ![Here what has been done so far...](current.png)
