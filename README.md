@@ -7,8 +7,8 @@ Inspiration was taken from:
 * [minhashcuda](https://github.com/src-d/minhashcuda)
 * [Locality Sensitive Hashing for semantic similarity](https://github.com/italo-batista/lsh-semantic-similarity/) repository
 
-[Here what has been done so far...](current.png)
+![Here what has been done so far...](current.png)
 
 What needs to be done in case this attempt will have any kind of future:
-* [Think of a streaning processing, something that might look like](processing_pipeline.png)
+* ![Think of a streaning processing, something that might look like](processing_pipeline.png)
 * Use [minhashcuda](https://github.com/src-d/minhashcuda) for doing it at scale
